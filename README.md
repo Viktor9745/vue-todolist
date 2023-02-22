@@ -1,4 +1,4 @@
-<img src="https://github.com/Viktor9745/vue-todolist/edit/main/image.jpg" alt="Alt text" title="Optional title">
+![image](https://user-images.githubusercontent.com/98753393/220579085-e8bb11ad-d63b-47a8-9b15-75450d053ad2.jpg)
 
 # vue-todo-list
 
