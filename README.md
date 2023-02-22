@@ -1,3 +1,5 @@
+![alt text](https://github.com/Viktor9745/vue-todolist/edit/main/image.jpg?raw=true)
+
 # vue-todo-list
 
 ## Project setup
